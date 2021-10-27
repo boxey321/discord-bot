@@ -25,7 +25,7 @@ Client.on('ready', ()=>{
 
 
 
-const TOKEN = 'insert token here';
+const TOKEN = 'OTAyOTYzNzIyMDUyNTcxMjA2.YXmEfw.60Ik7qDSLJWIxFCr3pQNZ31wo1o';
 
 var can_use_command = true;
 var is_connected = false;
